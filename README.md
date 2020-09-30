@@ -1,5 +1,5 @@
 # maliciousURLproject
 
-##student project
+student project
 
-##using Machine Learning to detect malicious websites
+using Machine Learning to detect malicious websites
