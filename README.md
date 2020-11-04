@@ -28,6 +28,6 @@ Practice Random Forest webside
 https://stackabuse.com/random-forest-algorithm-with-python-and-scikit-learn/
 
 
-#### [UsingALLcsv] (../master/UsingALLcsv)
+#### [UsingALLcsv](../master/UsingALLcsv)
 Using All.csv, applying random forest and KNN, and comparing results.
 
