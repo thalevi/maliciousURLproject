@@ -5,10 +5,10 @@
  using Machine Learning to detect malicious websites
  
 
- **Topics have been covered: 
- - KNN
- - random forest
- - Primary component analysis** 
+## **Topics have been covered:**
+ - **KNN**
+ - **random forest**
+ - **Primary component analysis** 
 
 Programming language: python
 
