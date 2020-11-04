@@ -6,9 +6,9 @@
  
 
  Topics have been covered:
- KNN
- random forest
- Primary component analysis 
+ - KNN
+ - random forest
+ - Primary component analysis 
 
 
 
